@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{3D5C3DF7-2812-4100-990D-E6F6CD7F6377}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lyric_T_Shirt/Program.cs">
+    <Files>
+      <File FileName="Lyric_T_Shirt/Program.cs" Line="20" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lyric_T_Shirt" expanded="True">
+            <Node name="Lyric_T_Shirt" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lyric__T__Shirt PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

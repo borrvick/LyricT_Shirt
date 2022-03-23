@@ -1,0 +1,6 @@
+/Users/benjaminorrvick/Desktop/Lyric_T_Shirt/Lyric_T_Shirt/bin/Debug/Lyric_T_Shirt.exe
+/Users/benjaminorrvick/Desktop/Lyric_T_Shirt/Lyric_T_Shirt/bin/Debug/Lyric_T_Shirt.pdb
+/Users/benjaminorrvick/Desktop/Lyric_T_Shirt/Lyric_T_Shirt/obj/Debug/Lyric_T_Shirt.csproj.AssemblyReference.cache
+/Users/benjaminorrvick/Desktop/Lyric_T_Shirt/Lyric_T_Shirt/obj/Debug/Lyric_T_Shirt.csproj.CoreCompileInputs.cache
+/Users/benjaminorrvick/Desktop/Lyric_T_Shirt/Lyric_T_Shirt/obj/Debug/Lyric_T_Shirt.exe
+/Users/benjaminorrvick/Desktop/Lyric_T_Shirt/Lyric_T_Shirt/obj/Debug/Lyric_T_Shirt.pdb
